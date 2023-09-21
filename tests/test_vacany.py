@@ -1,8 +1,13 @@
-from selene import browser, have, be
+import allure
 from pages.vacancy_page import VacancyPage
 
 
-def test_page():
+def test_description():
+    allure.dynamic.tag("web")
+    allure.dynamic.feature("Check vacancy page")
+
+
+def test_vacancy_page():
     vacancy_page = VacancyPage()
 
     vacancy_page.open()
@@ -28,7 +33,7 @@ def test_page():
     # check 'your task' block
     vacancy_page.asser_name_tasks_block('Your tasks')
 
-    # ckeck 'Show more' btn
+    # check 'Show more' btn
     vacancy_page.click_show_more_button()
     vacancy_page.asser_new_line('    Working in international teams across Europe.')
 
