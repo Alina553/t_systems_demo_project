@@ -4,7 +4,7 @@ from selene import browser, have, be
 class VacancyPage:
     def open(self):
         browser.open(
-            'https://t-systems.jobs/global-careers-en/jobs/gr/209045/Software-Engineer-for-Automation-_-TDI/Athens.html'
+            '/global-careers-en/jobs/gr/209045/Software-Engineer-for-Automation-_-TDI/Athens.html'
         )
         browser.element('#consentAcceptAll').click()
 
