@@ -29,7 +29,7 @@ After passing all cases you can see allure-reports (AllureTestOps and Allure Rep
 
 ### Telegram alert
 
-<img width="10%" title="alert" src="design/images/telegram.png" />
+<img width="40%" title="alert" src="design/images/telegram.png" />
 
 ### Video Example with passing one autotest
 
