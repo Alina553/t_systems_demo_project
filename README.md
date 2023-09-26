@@ -22,12 +22,14 @@
 ### Allure Reports
 
 After passing all cases you can see allure-reports (AllureTestOps and Allure Report):
+
 ![allure](design/images/allure.png)
 ![allure-report](design/images/allure_report.png)
 ![allure-testops](design/images/allure_testops.png)
 
 ### Telegram alert
-![telegram](design/images/telegram.png)
+
+<img width="40%" title="alert" src="design/images/telegram.png" />
 
 ### Video Example with passing one autotest
 
