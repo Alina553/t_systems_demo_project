@@ -8,6 +8,9 @@
 <code><img width="5%" title="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></code>
 <code><img width="5%" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" /></code>
 <code><img width="5%" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img width="5%" title="Telegram" src="design/icons/Telegram.png" /></code>
+<code><img width="5%" title="allure" src="design/icons/Allure_Report.png" /></code>
+<code><img width="5%" title="Selenoid" src="design/icons/Selenoid.png" /></code>
 
 ### For running autotests you should execute steps:
 
@@ -22,6 +25,9 @@ After passing all cases you can see allure-reports (AllureTestOps and Allure Rep
 ![allure](design/images/allure.png)
 ![allure-report](design/images/allure_report.png)
 ![allure-testops](design/images/allure_testops.png)
+
+### Telegram alert
+![telegram](design/images/telegram.png)
 
 ### Video Example with passing one autotest
 
