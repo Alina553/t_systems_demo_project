@@ -11,7 +11,7 @@
 
 ### For running autotests you should execute steps:
 
-1. Open project in Jenkins via ![link](https://jenkins.autotests.cloud/job/akazeka_qa_guru_6_15_jenkins/)
+1. Open project in Jenkins via <a target="_blank" href="https://https://jenkins.autotests.cloud/job/akazeka_qa_guru_6_15_jenkins/">link</a> 
 2. Click on 'Build now' button
 
 ![jenkins](design/images/jenkins.png)
