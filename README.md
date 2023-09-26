@@ -24,7 +24,7 @@ After passing all cases you can see allure-reports (AllureTestOps and Allure Rep
 ![telegram](design/images/telegram.png)
 
 ###Video Example with passing one autotest
-![video](design/video/defb8b7b17db72fbdb0c365bf076e5e5.mp4)
+![video](design/video/video.gif)
 
 
 
