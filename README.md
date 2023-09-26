@@ -10,17 +10,21 @@
 <code><img width="5%" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 
 ### For running autotests you should execute steps:
+
 1. Open project in Jenkins via ![link](https://jenkins.autotests.cloud/job/akazeka_qa_guru_6_15_jenkins/)
 2. Click on 'Build now' button
+
 ![jenkins](design/images/jenkins.png)
 
 ### Allure Reports
+
 After passing all cases you can see allure-reports (AllureTestOps and Allure Report):
 ![allure](design/images/allure.png)
 ![allure-report](design/images/allure_report.png)
 ![allure-testops](design/images/allure_testops.png)
 
 ### Video Example with passing one autotest
+
 ![video](design/video/video.gif)
 
 
