@@ -3,3 +3,6 @@
 ![This is an image](design/images/main_page.png)
 
 <code><img width="5%" title="Python" src="design/icons/python_original.svg"></code>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
